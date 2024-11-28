@@ -1,1 +1,3 @@
-readme
+new function
+
+autor: ivan romanov
